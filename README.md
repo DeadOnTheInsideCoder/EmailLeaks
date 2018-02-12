@@ -7,10 +7,9 @@
    A)You can specify 2 arguments.<br />
      1)Argument email.<br />
      2)Argument path.<br />
-     
+     <hr />
    B)
      You can give the inputs while the program is running.
-     <hr />
      At path input type:
 
       1)n     #to just display the results and don't save it to a file<br />
