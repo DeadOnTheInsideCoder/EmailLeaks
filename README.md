@@ -11,6 +11,7 @@ usage:
    
    2)You can give the inputs while the program is running.
    At path input type:
+    <hr />
       1)n     #to just display the results and don't save it to a file
       
       2)press enter  #to save it at the default path,default path = drive/filepath/leaks.txt
