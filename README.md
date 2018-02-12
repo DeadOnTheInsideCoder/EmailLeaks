@@ -11,8 +11,9 @@ usage:
    
    2)You can give the inputs while the program is running.
    At path input type:
-      n     #to just display the results and don't save it to a file
-      press enter  #to save it at the default path,default path = drive/filepath/leaks.txt
+      1)n     #to just display the results and don't save it to a file
+      
+      2)press enter  #to save it at the default path,default path = drive/filepath/leaks.txt
    
 
 How the program works:
@@ -24,4 +25,3 @@ How the program works:
 How https://hacked-emails.com/ works:
     
     see here: https://hacked-emails.com/about
-
