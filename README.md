@@ -1,14 +1,29 @@
 # EmailLeaks
 
-Learn if your Email has been hacked.
+<h2>Learn if your Email has been hacked.</h2>
 
-usage:
+<h1>Usage:</h1>
 
-   1)You can specify 2 arguments.
-   Argument 1 email.
-   Argument 2 path.
-   example. python EmailLeaks.py someEMail@someShit.com c://Somepath/somepath
+   A)You can specify 2 arguments.<br />
+     1)Argument email.<br />
+     2)Argument path.<br />
+     
+   B)
+     You can give the inputs while the program is running.
+     <hr />
+     At path input type:
+
+      1)n     #to just display the results and don't save it to a file<br />
+      
+      2)press enter  #to save it at the default path
+      default path = drive/filepath/leaks.txt
+      
+      
+<h2>Example:</h2>
+
+        python EmailLeaks.py someEMail@someShit.com c://Somepath/somepath
    
+
    2)You can give the inputs while the program is running.
    At path input type:
     <hr />
