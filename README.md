@@ -12,7 +12,7 @@
      You can give the inputs while the program is running.
      At path input type:
 
-      1)n     #to just display the results and don't save it to a file<br />
+      1)n     #to just display the results and don't save it to a file
       
       2)press enter  #to save it at the default path
       default path = drive/filepath/leaks.txt
@@ -25,9 +25,9 @@
 
 How the program works:
  
-1)The program is senting a get request to the https://hacked-emails.com/ site.
-2)The site responds with a json file
-3)Finally we print the results
+1)The program is senting a get request to the https://hacked-emails.com/ site.<br />
+2)The site responds with a json file<br />
+3)Finally we print the results<br />
 
 How https://hacked-emails.com/ works:
     
