@@ -5,8 +5,8 @@
 <h1>Usage:</h1>
 
    A)You can specify 2 arguments.<br />
-     1)Argument email.<br />
-     2)Argument path.<br />
+     1)Argument 1 email.<br />
+     2)Argument 2 path.<br />
      <hr />
    B)
      You can give the inputs while the program is running.
@@ -15,7 +15,7 @@
       1)n     #to just display the results and don't save it to a file
       
       2)press enter  #to save it at the default path
-      default path = drive/filepath/leaks.txt
+      default path = drive/filepath/somepath
       
       
 <h2>Example:</h2>
